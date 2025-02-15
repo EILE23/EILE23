@@ -3,7 +3,6 @@
 
 <hr style="border= "10px" color = "black;"/>
 
-__web-app, game develop__
 
 <br>
 <br>
