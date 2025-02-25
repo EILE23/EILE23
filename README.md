@@ -11,4 +11,4 @@
 
 <br>
 
-<a href = "https://www.notion.so/190d17da2e61807cb0e2ecc499f9f64c">123</a>
+<a href = "https://www.notion.so/190d17da2e61807cb0e2ecc499f9f64c"><img src = "https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
