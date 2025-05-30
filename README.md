@@ -20,7 +20,7 @@
 </span>
 <br/> <br/>
 
-<a href = "https://www.notion.so/190d17da2e61807cb0e2ecc499f9f64c"><img src = "https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+[<a href = "https://www.notion.so/190d17da2e61807cb0e2ecc499f9f64c"><img src = "https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>](https://www.notion.so/190d17da2e61818e9e31faccca88e9a7?v=190d17da2e6181f9b2d5000c87724cf6&source=copy_link)
 
 
 <br/>
