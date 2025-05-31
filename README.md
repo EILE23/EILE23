@@ -15,8 +15,12 @@
   <img src = "https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=black"/>
    <img src = "https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=black"/>
    <img src = "https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
-   <img src = "https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+   <img src = "https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/><br/>
+     <img src = "https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=black"/>
    <img src = "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+     <img src = "https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+   <img src = "https://img.shields.io/badge/nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=black"/>
+   <img src = "https://img.shields.io/badge/typeorm-FE0803?style=flat-square&logo=typeorm&logoColor=black"/>
 </span>
 <br/> <br/>
 
