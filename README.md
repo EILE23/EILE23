@@ -32,8 +32,6 @@
 |------|------|
 | **Backend** | NestJS, Node.js, Express, TypeORM, MySQL |
 | **Frontend** | React, Next.js, TypeScript |
-| **Real-time** | Socket.io |
-| **API 연동** | Toss Payments, Kakao Maps/Local, Unsplash, Google Gemini |
 | **Etc** | Git, JWT, REST API, Postman, MVC/MVVC 구조 |
 
 
