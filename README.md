@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>| Back-End Developer</h1>
-</div>
+
 
 <br />
 
