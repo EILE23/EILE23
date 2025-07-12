@@ -19,6 +19,6 @@
 ## 📫 Contact
 
 - 📧 Email: tkdgys1234@gmail.com  
-- 💼 Notion: [(https://www.notion.so/190d17da2e61807cb0e2ecc499f9f64c)](https://www.notion.so/190d17da2e61818e9e31faccca88e9a7?v=190d17da2e6181f9b2d5000c87724cf6)
+- 💼 Notion: [[(https://www.notion.so/190d17da2e61807cb0e2ecc499f9f64c)](https://www.notion.so/190d17da2e61818e9e31faccca88e9a7?v=190d17da2e6181f9b2d5000c87724cf6)](https://www.notion.so/216d17da2e618028a34dfc9c71be6a82)
 
 ---
